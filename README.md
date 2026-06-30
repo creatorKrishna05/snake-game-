@@ -100,7 +100,7 @@ You Win!
 
 ## 👨‍💻 Author
 
-**Krishna**
+**Kanchan**
 
 GitHub: https://github.com/creatorKrishna05
 
